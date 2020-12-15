@@ -1,4 +1,4 @@
-![Client Logo](./assets/images/mock-logo.jpg)
+![Client Logo](./assets/images/mock-logo.png)
 # Run Buddy Demonstration Website
 ## U of A Bootcamp, December 2020
 
@@ -25,6 +25,6 @@ Privacy policy page
 
 ### Landing Page Mockup
 
-![Client Mockup](./assets/images/050-mock-up-1.jpg)
+![Client Mockup](./assets/images/050-mock-up-1.png)
 
     
