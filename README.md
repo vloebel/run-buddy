@@ -2,7 +2,7 @@
 # Run Buddy Demonstration Website
 ## U of A Bootcamp, December 2020
 
-[https://vloebel.github.io/run-buddy/](https://vloebel.github.io/run-buddy/)
+[https://vloebel.github.io/run-buddy/](https://vloebel.github.io/run-buddy-01/)
 
 **Original Source**
 * University of Arizona Coding Bootcamp  
